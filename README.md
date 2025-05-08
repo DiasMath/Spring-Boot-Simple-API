@@ -1,6 +1,6 @@
 # Spring Boot Simple API
 
-##API simples utilizando
+## API simples utilizando
 
 ### Tecnologias:
 - Java
